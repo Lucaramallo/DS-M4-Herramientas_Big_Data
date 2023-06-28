@@ -32,7 +32,7 @@ Zeppelin: http://<IP_Anfitrion>:8888
 Neo4j: http://<IP_Anfitrion>:7474
 ```
 
-Para implementar ejecute
+Para implementar ejecute (la X debe reeemplazarse por cada v1; v2 ; v3 ; v4 ...
 ```
   git clone https://github.com/lopezdar222/herramientas_big_data
   cd herramientas_big_data
