@@ -34,7 +34,7 @@ Neo4j: http://<IP_Anfitrion>:7474
 
 Para implementar ejecute (la X debe reeemplazarse por cada v1; v2 ; v3 ; v4 ...
 ```
-  git clone https://github.com/lopezdar222/herramientas_big_data
+  git clone https://github.com/Lucaramallo/DS-M4-Herramientas_Big_Data
   cd herramientas_big_data
   sudo docker-compose -f docker-compose-vX.yml up -d
 ```
