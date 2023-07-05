@@ -342,7 +342,7 @@ Instrucciones:
 ## 6) Spark
 
 Se pueden utilizar los entornos docker-compose-v4.yml y docker-compose-kafka.yml
-
+(En realidad queda: $sudo docker-compose -f docker-compose-kafka.yml up 
 ### 1) Spark y Scala:
 
 Ubicarse en la línea de comandos del Spark master y comenzar PySpark.
